@@ -14,7 +14,7 @@ public class enemy : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
-		if (transform.position.x >=-10.33252) {
+		if (transform.position.x >=-10.5) {
 
 			timer = false;
 		}
