@@ -6,7 +6,7 @@ public class spider : MonoBehaviour {
 	bool timer=false;
 	
 	Rigidbody2D rb;
-	public float speed=1;
+	public float speed;
 	// Use this for initialization
 	void Start () {
 		rb = GetComponent<Rigidbody2D> ();
@@ -14,11 +14,11 @@ public class spider : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (transform.position.y >=-0.9) {
+		if (transform.position.y >=-0.4) {
 			
 			timer = false;
 		}
-		if (transform.position.y <= -0.1) {
+		if (transform.position.y <= 0.5) {
 			
 			timer = true;
 		}
@@ -30,5 +30,6 @@ public class spider : MonoBehaviour {
 		}
 		
 	}
+
 }
 

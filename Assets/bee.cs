@@ -7,13 +7,15 @@ public class bee : MonoBehaviour {
 	public float verticalspeed;
 	public float amplitude;
 
-	public Vector3 tempposition ;
+	
+	Rigidbody2D rb;
+	public Vector2 tempposition ;
 	void Start(){
-		//tempposition = transform.position;
-		
+		tempposition = new Vector2(transform.position.x,transform.position.y);
+		rb = GetComponent<Rigidbody2D> ();
 	}
 
-	void FixedUpdate() {
+	void Update() {
 
 
 			tempposition.x += horizontalspeed;

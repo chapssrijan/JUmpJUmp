@@ -10,12 +10,15 @@ public class machine : MonoBehaviour {
 	void Start () {
 		rb = GetComponent<Rigidbody2D> ();
 	}
-	
+	float timerb = 0;
 	// Update is called once per frame
 	void Update () {
+
+
 		if (transform.position.y >-0.5) {
 			
 			timer = false;
+
 		}
 		if (transform.position.y < 2.1) {
 			
@@ -24,8 +27,13 @@ public class machine : MonoBehaviour {
 		
 		if (timer) {
 			rb.AddForce (transform.up * speed);
+
 		} else {
 			rb.AddForce(-transform.up* speed);
+			if (timerb <= Time.time) {
+				 Instantiate (Resources.Load ("explosions_0"),transform.position,transform.rotation);
+				timerb = Time.time + 1.5f;
+			}
 		}
 		
 	}

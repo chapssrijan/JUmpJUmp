@@ -6,6 +6,7 @@ public class beam : MonoBehaviour {
 	Rigidbody2D rb;
 	public float speed =50;
 	public string tag1;
+	public float timer;
 
 	public bool enemy =false;
 	// Use this for initialization
