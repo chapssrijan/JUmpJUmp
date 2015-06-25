@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: a1cbc78f397398749bb86a65c5f69097
+timeCreated: 1434542731
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: butterfly_sprite2_0
+    21300002: butterfly_sprite2_1
+    21300004: butterfly_sprite2_2
+    21300006: butterfly_sprite2_3
+    21300008: butterfly_sprite2_4
+    21300010: butterfly_sprite2_5
+    21300012: butterfly_sprite2_6
+    21300014: butterfly_sprite2_7
+    21300016: butterfly_sprite2_8
+    21300018: butterfly_sprite2_9
+    21300020: butterfly_sprite2_10
+    21300022: butterfly_sprite2_11
+    21300024: butterfly_sprite2_12
+    21300026: butterfly_sprite2_13
+    21300028: butterfly_sprite2_14
+    21300030: butterfly_sprite2_15
+    21300032: butterfly_sprite2_16
+    21300034: butterfly_sprite2_17
+    21300036: butterfly_sprite2_18
+    21300038: butterfly_sprite2_19
+    21300040: butterfly_sprite2_20
+    21300042: butterfly_sprite2_21
+    21300044: butterfly_sprite2_22
+    21300046: butterfly_sprite2_23
+    21300048: butterfly_sprite2_24
+    21300050: butterfly_sprite2_25
+    21300052: butterfly_sprite2_26
+    21300054: butterfly_sprite2_27
+    21300056: butterfly_sprite2_28
+    21300058: butterfly_sprite2_29
+    21300060: butterfly_sprite2_30
+    21300062: butterfly_sprite2_31
+    21300064: butterfly_sprite2_32
+    21300066: butterfly_sprite2_33
+    21300068: butterfly_sprite2_34
+    21300070: butterfly_sprite2_35
+    21300072: butterfly_sprite2_36
+    21300074: butterfly_sprite2_37
+    21300076: butterfly_sprite2_38
+    21300078: butterfly_sprite2_39
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: butterfly_sprite2_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 315
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 316
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_2
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 316
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_3
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 317
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_4
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 317
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_5
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 317
+        width: 65
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_6
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 317
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_7
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 317
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_8
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 316
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_9
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 316
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 215
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 215
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_12
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 216
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_13
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 216
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_14
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 217
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 217
+        width: 69
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_16
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 217
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_17
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 216
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_18
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 216
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_19
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 215
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 115
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_21
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 115
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_22
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 116
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_23
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 116
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_24
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 117
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_25
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 117
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_26
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 117
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_27
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 116
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_28
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 116
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_29
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 115
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_30
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 15
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_31
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 15
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_32
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 16
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_33
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 16
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_34
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 17
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_35
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 17
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_36
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 17
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_37
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 16
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_38
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 16
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: butterfly_sprite2_39
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 15
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

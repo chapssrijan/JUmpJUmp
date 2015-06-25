@@ -4,7 +4,8 @@ using System.Collections;
 public class spider : MonoBehaviour {
 
 	bool timer=false;
-	
+
+	float timer1=0;
 	Rigidbody2D rb;
 	public float speed;
 	// Use this for initialization
@@ -17,16 +18,23 @@ public class spider : MonoBehaviour {
 		if (transform.position.y >=-0.4) {
 			
 			timer = false;
+			timer1=timer1+1;
 		}
 		if (transform.position.y <= 0.5) {
 			
 			timer = true;
+			timer1=timer1+1;
 		}
 
-		if (timer) {
+		if (timer==true ) {
 			rb.AddForce (transform.up * speed);
+			if(timer1==5)
+			{
+			rb.AddForce (transform.right*11);
+			}
 		} else {
 			rb.AddForce(-transform.up* speed);
+
 		}
 		
 	}

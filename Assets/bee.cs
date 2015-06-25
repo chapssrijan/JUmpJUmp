@@ -11,7 +11,7 @@ public class bee : MonoBehaviour {
 	Rigidbody2D rb;
 	public Vector2 tempposition ;
 	void Start(){
-		tempposition = new Vector2(transform.position.x,transform.position.y);
+		//tempposition = new Vector2(transform.position.x,transform.position.y);
 		rb = GetComponent<Rigidbody2D> ();
 	}
 
